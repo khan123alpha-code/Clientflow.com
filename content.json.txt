@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "We help agencies & coaches get 5–7 clients weekly",
+    "subtitle": "ClientFlow builds predictable client pipelines...",
+    "cta": "Book Free Strategy Call"
+  },
+  "services": [
+    {"title": "Landing Pages & Funnels", "desc": "High-converting pages & lead magnets tailored to your offers."},
+    {"title": "CRM & Automation", "desc": "HubSpot workflows, lead scoring, integrations to convert leads to clients."},
+    {"title": "Paid Ads & Outreach", "desc": "Ad campaigns, targeting, and automation for scaling client acquisition."}
+  ],
+  "testimonials": [
+    {"name": "Daniel — Founder", "quote": "Monthly revenue jumped from $18K to $72K after ClientFlow rebuilt our funnel."},
+    {"name": "Olivia — Coach", "quote": "They doubled our conversion rate in 30 days with automation & follow-ups."}
+  ]
+}
